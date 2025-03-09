@@ -18,56 +18,33 @@
 </div>
 
 ### Hi there 👋 I am Luis
-I am a ✨Full-Stack Developer✨ and ✨Computer Science Student✨
+I am a ✨Full-Stack Developer✨ recently graduated with ✨double degrees✨ from <a href="https://www.uaslp.mx">UASLP MX</a> and <a href="https://www.cityu.edu/">CityU Seattle</a>
 
 ### 🔭 I’m currently working on
-  - Web Development (Full-Stack)
+  - Web Development
   - DevOps
+  - Cloud Engineering
 
 ### 🌱 I’m currently learning
   - Data Science
   - Computer Vision
-  - REST APIs
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width="40" height="40"/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='TypeScript' width="40" height="40"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width="40" height="40"/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='Java' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='RStudio' width="40" height="40"/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='Cplusplus' width="40" height="40"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' alt='Linux' width="40" height="40"/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='React' width="40" height="40"/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg' alt='Angular' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' alt='Linux' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' alt='MongoDB' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' alt='Docker' width="40" height="40"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' alt='AWS' width="40" height="40"/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg' alt='Firebase' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg' alt='Gimp' width="40" height="40"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' alt='Docker' width="40" height="40"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg' alt='Kubernetes' width="40" height="40"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' alt='MongoDB' width="40" height="40"/>&nbsp;
 </div>
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisill0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-<!--
-**Luisill0/Luisill0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### Check out my favorite projects!
-
-<div style="display:flex">
-  <img src='images/15puzzle.gif' height="200"/>
-  <h3>15 Puzzle with vanilla JavaScript</h3>
-</div>
--->
